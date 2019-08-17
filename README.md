@@ -4,9 +4,11 @@ This is where Hacktivism course stuff goes.
 
 ## Where to start
 
-If this is your first time using GitHub, you should go [create a new account](https://github.com/join) so you can then *star the repo* so that I'll know which GitHub users are in the class.
+If this is your first time using GitHub, you should go [create a new account](https://github.com/join) so you can then *star the repo* up at the top of the page so that I'll know which GitHub users are in the class.
 
 ![screenshot of the GitHub repo star interface](img/github-stars.png)
+
+If this is the first week, you will probably want to read the [syllabus](syllabus.md) next.
 
 ## What you can find in here
 
