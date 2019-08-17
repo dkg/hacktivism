@@ -60,11 +60,11 @@ The RENSSELAER HANDBOOK defines various forms of Academic Dishonesty and procedu
 * 2019-09-24 Outlaws or Heroes?
 * 2019-10-01 How to execute a media intervention
 * 2019-10-08 Crypto is for cryptography
-* 2019-10-15 Hacking Networks
-* 2019-10-22 Software Defined Radio
+* 2019-10-15 Networks
+* 2019-10-22 Prison Industrial Complex
 * 2019-10-29 Gerrymandering, voter suppression, and poll taxes (oh my!)
 * 2019-11-05 Hacking Elections
-* 2019-11-12 Hacking Mass Incarceration
+* 2019-11-12 Software Defined Radio
 * 2019-11-19 Journalism and Hacking
 * 2019-11-26 China and the Great Firewall
 * 2019-12-03 Hacking Climate
