@@ -18,7 +18,7 @@ This course explores the history, methods, ethos, and goals of hackers with spec
 
 Students who successfully complete this courses will be able to:
 
-* Demonstrate an understanding of what hacking is, how it is perceived, and when it can be called “hactivism.”
+* Demonstrate an understanding of what hacking is, how it is perceived, and when it can be called “hacktivism.”
 * Recall fundamental knowledge about the history of hacking and how it developed as a cultural force.
 * Analyze, discuss, and write about emergent hacking events.
 * Perform their knowledge of legal forms of basic hacking.
